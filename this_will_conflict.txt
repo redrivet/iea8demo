@@ -1,0 +1,8 @@
+Line from A
+Common line
+Common line
+
+More common line
+More common line
+
+End line
